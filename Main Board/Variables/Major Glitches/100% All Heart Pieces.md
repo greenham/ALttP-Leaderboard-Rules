@@ -1,0 +1,17 @@
+---
+
+## CATEGORY RULES
+
+1. Timing starts on file select and ends upon entering the Triforce room.
+
+2. Full inventory with all maximum level items, 20 hearts, and 1/2 magic is required. Intermediary items and bomb/arrow capacity upgrades are not required.
+
+3. All bosses must be defeated. This means all bosses at the end of a dungeon which drop a heart container, both Agahnim fights, and Ganon.
+
+4. Collecting all of the pendants and crystals is required. This can be done by any means.
+
+5. All 24 unique Heart Pieces must be collected.
+
+**_PLEASE RESET AND SHOW YOUR MENU + 4 BOTTLES AFTER THE CREDITS!_**
+
+This is not a hard requirement, but will greatly assist us in verifying your run, thank you!
