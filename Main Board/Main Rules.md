@@ -40,7 +40,7 @@ These rules apply to the entire leaderboard, unless otherwise specified by the c
 
 3. Emulator or front-end specific functionality is banned (e.g. save states, binding multiple keys, run-ahead, etc).
 
-4. One-to-one mapping is required between buttons/keys and inputs. An exception is made for controllers which require mapping diagonals (e.g. Logitech, etc.).
+4. Leaving emulator inputs unbound is allowed. For all emulator inputs that are bound, one-to-one mappings are required with user inputs. An exception is allowed only for diagonal mappings on controllers that require them (e.g. Logitech, etc.).
 
 5. Input must be continually registered for the duration of the button being depressed (e.g. pressing and holding a direction must register as pressing and holding, not just a single frame of input).
 
