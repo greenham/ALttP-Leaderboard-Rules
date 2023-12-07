@@ -1,3 +1,3 @@
 # Ruleset: MISCELLANEOUS
 
-Check the specific category rules below!
+Most of these categories follow an existing ruleset, but may have a few exceptions. Be sure to check the rules below!
