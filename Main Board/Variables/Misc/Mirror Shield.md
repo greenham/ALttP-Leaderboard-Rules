@@ -1,13 +1,6 @@
----
+## Mirror Shield NMG
 
-## NO MAJOR GLITCHES RULESET
-
-All major glitches are banned.
-
----
-
-## CATEGORY RULES
+**This category follows the [NMG Ruleset](https://www.speedrun.com/alttp?h=No_Major_Glitches-Any&rules=category&x=wk6jz5rd-2lg2368p.013xwzr1)**
 
 1. Timing starts on file select and ends upon collecting the Mirror Shield.
-
-2. Saving and quitting (S&Q) and intentionally dying to emulate a S&Q are banned.
+2. Save & Quit, including intentionally dying on the overworld to emulate a Save & Quit, is banned.
