@@ -1,12 +1,12 @@
 # ALttP Speedrun Rules & Guidelines
 
-**BE SURE TO READ THE CATEGORY RULES AS WELL!**
-
 Given that this game is popular and has many very optimized times, submissions will be held to high scrutiny, particularly those near the top of the leaderboard. Please be prepared to show additional proof of legitimacy if asked. This may include a recorded history of attempts (if you are not already regularly streaming them), or some other proof that you are capable of playing at the skill level your submission indicates.
 
 The minimum guidelines defined below will, in the vast majority of cases, be enough to ensure legitimacy of your submission, and so we ask that you follow them regardless of your time.
 
 These rules apply to the entire leaderboard, unless otherwise specified by the category's rules.
+
+**Be sure to read the category rules as well!**
 
 ## GLOBAL RULES
 
