@@ -1,6 +1,4 @@
----
-
-## CATEGORY RULES
+## All Dungeons
 
 1. Timing starts on file select and ends upon entering the Triforce room.
 

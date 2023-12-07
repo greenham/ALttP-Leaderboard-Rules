@@ -1,10 +1,12 @@
----
-
-## CATEGORY RULES
+## All Bosses (No EG)
 
 1. Timing starts on file select and ends upon entering the Triforce room.
 
-2. EG is banned.
+2. This category bans:
+
+- Underworld EG
+- Plaid World
+- Underworld Swim Slope Clipping
 
 3. All bosses must be defeated. This means all bosses at the end of a dungeon which drop a heart container, both Agahnim fights, and Ganon.
 
