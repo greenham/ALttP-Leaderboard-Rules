@@ -30,3 +30,4 @@ The following techniques are **ALLOWED** in RMG Categories:
 - Extended Auto Stairs
 - Barrier Revival
 - Stairmaster
+- Blockbuster
