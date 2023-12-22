@@ -10,8 +10,8 @@ The following techniques are **ALLOWED** in NMG categories:
 - Houlihan
 - Item Dashing
 - Superspeed (Armed & Active)
-- This includes pot and bottle spinspeed using underworld stairs
-- Somaria Bounce method is limited to RMG applications due to Somaria Bounce being RMG
+  - This includes pot and bottle spinspeed using underworld stairs
+  - Somaria Bounce method is limited to RMG applications due to Somaria Bounce being RMG
 - Block Push Glitches (Hook/Fire Rod/Mirror)
 - Big Bomb Dupe
 - Big Bomb/Purple Chest Dashing
@@ -38,10 +38,10 @@ The following techniques are **ALLOWED** in NMG categories:
 - Sanc & Quit
 - Prize on the Eyes
 - Bunny Glitches
-- Super Bunny
-- Surfing/Wriggling Bunny
-- Bunny Dungeon Revival
-- 0HP Dungeon Revival
-- Overworld Bunny Revival
-- Unbunny Beam
-- Bunny Pocket
+  - Super Bunny
+  - Surfing/Wriggling Bunny
+  - Bunny Dungeon Revival
+  - 0HP Dungeon Revival
+  - Overworld Bunny Revival
+  - Unbunny Beam
+  - Bunny Pocket
