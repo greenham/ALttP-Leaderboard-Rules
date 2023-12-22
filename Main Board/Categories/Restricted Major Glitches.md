@@ -7,20 +7,20 @@ The following techniques are **ALLOWED** in RMG Categories:
 - All NMG Legal Techniques
 - Saving and Quitting (S&Q), and intentionally dying to emulate a Save and Quit
 - Overworld Clipping & Out of Bounds
-- Wall Clipping
-- Teleports
-- FAWT
-- Slope Swim Clip (Swimmy G)
+  - Wall Clipping
+  - Teleports
+  - FAWT
+  - Slope Swim Clip (Swimmy G)
 - Underworld Clipping
-- Wall Clipping
-- Teleports
-- Hookshot clipping aided by single-pixel clipping (e.g. Herapot, Specky Clip)
-- Fake Clippers
-- Stair-Aided Rail Clip (i.e. Diver Down)
+  - Wall Clipping
+  - Teleports
+  - Hookshot clipping aided by single-pixel clipping (e.g. Herapot, Specky Clip)
+  - Fake Clippers
+  - Stair-Aided Rail Clip (i.e. Diver Down)
 - Overworld Mirror Glitches
-- Mirror Wrap
-- Mirror Clipping
-- Mirror Jump
+  - Mirror Wrap
+  - Mirror Clipping
+  - Mirror Jump
 - Overworld YBAs
 - Overworld EG
 - Door State Extension (Ice Breaker, etc.)
