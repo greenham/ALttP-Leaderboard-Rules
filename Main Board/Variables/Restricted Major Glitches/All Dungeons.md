@@ -1,4 +1,4 @@
-## All Dungeons RMG
+## Goal: All Dungeons
 
 1. Timing starts on file select and ends upon entering the Triforce room.
 2. Every boss must be defeated and all of the crystals and pendants must be collected.
