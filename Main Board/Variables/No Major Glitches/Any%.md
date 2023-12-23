@@ -1,5 +1,5 @@
-## Any% NMG
+## Goal: Any%
 
 1. Timing starts on file select and ends upon entering the Triforce room.
 
-2. Save & Quit, including intentionally dying on the overworld to emulate a Save & Quit, is banned.
+2. **Save & Quit, including intentionally dying on the overworld to emulate a Save & Quit, is banned.**

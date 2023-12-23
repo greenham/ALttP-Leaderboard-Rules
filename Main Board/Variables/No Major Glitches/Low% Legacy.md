@@ -1,4 +1,4 @@
-## Low% Legacy NMG (LowLeg)
+## Goal: Low%
 
 1. Timing starts on file select and ends upon entering the Triforce room.
 

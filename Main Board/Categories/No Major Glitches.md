@@ -1,5 +1,7 @@
 # Ruleset: NO MAJOR GLITCHES
 
+**_BE SURE TO SEE THE CATEGORY-SPECIFIC RULES BELOW THIS LIST!_**
+
 The categories in this ruleset are meant to be played like an optimized casual playthrough, allowing some glitches and sequence breaking.
 
 The following techniques are **ALLOWED** in NMG categories:
@@ -45,3 +47,5 @@ The following techniques are **ALLOWED** in NMG categories:
   - Overworld Bunny Revival
   - Unbunny Beam
   - Bunny Pocket
+
+---
