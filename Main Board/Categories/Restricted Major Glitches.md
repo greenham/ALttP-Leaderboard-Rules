@@ -1,5 +1,7 @@
 # Ruleset: RESTRICTED MAJOR GLITCHES
 
+**_BE SURE TO SEE THE CATEGORY-SPECIFIC RULES BELOW THIS LIST!_**
+
 This category is meant as a gateway to the glitched speedruns. Generally any sequence breaks on the overworld are allowed, and the glitches themselves are generally not very complicated to do. This ruleset does not allow for major glitches such as underworld EG, underworld transition corruptions, Plaid World, and misslotting.
 
 The following techniques are **ALLOWED** in RMG Categories:
@@ -31,3 +33,5 @@ The following techniques are **ALLOWED** in RMG Categories:
 - Barrier Revival
 - Stairmaster
 - Blockbuster
+
+---
