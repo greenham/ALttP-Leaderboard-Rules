@@ -35,7 +35,7 @@ The following techniques are **ALLOWED** in NMG categories:
 - Medallion Cancel
 - Magic Cape Cheapskate
 - Magic Overflow
-- LSD Blind
+- LSD Blind & Variants
 - Remote Purple Chest
 - Sanc & Quit
 - Prize on the Eyes
