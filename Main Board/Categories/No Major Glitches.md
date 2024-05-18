@@ -13,7 +13,6 @@ The following techniques are **ALLOWED** in NMG categories:
 - Item Dashing
 - Superspeed (Armed & Active)
   - This includes pot and bottle spinspeed using underworld stairs
-  - Somaria Bounce method is limited to RMG applications due to Somaria Bounce being RMG
 - Block Push Glitches (Hook/Fire Rod/Mirror)
 - Big Bomb Dupe
 - Big Bomb/Purple Chest Dashing
