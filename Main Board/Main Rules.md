@@ -38,7 +38,7 @@ These rules apply to the entire leaderboard, unless otherwise specified by the c
 
 2. Front-ends running a valid SNES9X or BSNES emulator core are allowed (Retroarch, BizHawk, etc.).
 
-3. Emulator or front-end specific functionality is banned (e.g. save states, binding multiple keys, run-ahead, etc).
+3. Emulator or front-end specific functionality is banned (e.g. save states, binding multiple keys, run-ahead, etc). Even accidental use of an emulator functionality, with no benefit to the run, is grounds for rejection. To avoid this happening by accident, we recommend that you unset emulator hotkeys and set the emulator to run in the background (i.e. when the window loses focus).
 
 4. Leaving emulator inputs unbound is allowed. For all emulator inputs that are bound, one-to-one mappings are required with user inputs. An exception is allowed only for diagonal mappings on controllers that require them (e.g. Logitech, etc.).
 
